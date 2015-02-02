@@ -9,3 +9,5 @@ hi
 sssssss
 
 aaaaaaa
+
+test core member
